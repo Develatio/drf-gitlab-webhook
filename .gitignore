@@ -1,0 +1,11 @@
+*.pyc
+*.db
+*~
+.*
+
+/dist/
+/*.egg-info/
+/env/
+MANIFEST.in
+
+!.gitignore
